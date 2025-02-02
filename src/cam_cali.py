@@ -9,7 +9,6 @@ from pathlib import Path
 import os
 import glob
 
-
 class CameraCalibration(Node):
     def __init__(self):
         super().__init__('camera_calibration')
@@ -52,7 +51,7 @@ class CameraCalibration(Node):
 
                 # Draw checkerboard corners and display the image
                 img = cv2.drawChessboardCorners(img, (wc, hc), corners2, ret)
-                cv2.imshow('Checkerboard', img)
+                #cv2.imshow('Checkerboard', img)
                 cv2.waitKey()
 
         # Perform camera calibration

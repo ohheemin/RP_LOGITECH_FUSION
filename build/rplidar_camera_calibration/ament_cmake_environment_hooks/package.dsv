@@ -1,0 +1,4 @@
+source;share/rplidar_camera_calibration/local_setup.bash
+source;share/rplidar_camera_calibration/local_setup.dsv
+source;share/rplidar_camera_calibration/local_setup.sh
+source;share/rplidar_camera_calibration/local_setup.zsh

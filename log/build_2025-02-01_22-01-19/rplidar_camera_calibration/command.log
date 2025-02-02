@@ -1,0 +1,2 @@
+Invoking command in '/home/ohheemin/ros2_ws/src/rplidar_camera_calibration/build/rplidar_camera_calibration': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ohheemin/ros2_ws/src/rplidar_camera_calibration/build/rplidar_camera_calibration -- -j32 -l32
+Invoked command in '/home/ohheemin/ros2_ws/src/rplidar_camera_calibration/build/rplidar_camera_calibration' returned '2': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/ohheemin/ros2_ws/src/rplidar_camera_calibration/build/rplidar_camera_calibration -- -j32 -l32
