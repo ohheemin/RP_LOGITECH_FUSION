@@ -15,3 +15,7 @@ ros2 run rplidar_camera_calibration lidar.py (/scan을 /pointcloud로 받아오�
 ros2 run rplidar_camera_calibration main.py (cam_cali 모듈 실행 후 프로젝션 진행)
 
 을 차례대로 실행합니다. 
+
+# 결과 화면
+
+![Image](https://github.com/user-attachments/assets/344de8ef-421c-4913-9ce0-4b22f421b493)
