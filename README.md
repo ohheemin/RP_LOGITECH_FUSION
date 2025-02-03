@@ -1,9 +1,12 @@
-# RP_LOGITECH_FUSION
+# About RP_LOGITECH_FUSION
 
 2d 라이다와 로지텍 카메라의 프로젝션 과정입니다. 2d 카메라는 RP 라이다, 카메라는 logitech 카메라 사용했습니다. 
 
+ubuntu 22.04 os 시스템에서 ros2 humble을 설치한 환경에서 진행하였습니다. 
+
 # 사용 방법
 
+ubuntu 22.04 os 시스템에서 ros2 humble을 설치한 환경에서 진행하였습니다. 
 RP 라이다에서는 드라이버를 이용하여 /scan 토픽을 받아오고, 웹캠은 연결되어 있는 상태여야 합니다. 
 
 터미널 각 창으로 실행하여 
